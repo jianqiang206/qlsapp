@@ -4,8 +4,8 @@ author: "Jianqiang Li"
 
 theme: minima
 
-base_url: /qlsapp
-repository: jianqiang206/qlsapp
+base_url: "/qlsapp"
+repository: "jianqiang206/qlsapp"
 
 # Minima social links
 github_username: jsanz
