@@ -9,5 +9,5 @@ QuantumForGraphproblem Team from Rice University
 
 
 
-[paper]: https://arxiv.org/abs/2510.05588
+[paper]: (https://arxiv.org/abs/2510.05588)
 
