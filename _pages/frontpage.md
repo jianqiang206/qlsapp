@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: XPRIZE Quantum Applications Competition - Quantum for Graph Problems
+title: Frontpage
 list_title: HomePage
 ---
 
